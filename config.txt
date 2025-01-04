@@ -1,0 +1,6 @@
+Prefix pipelines/FIDLAR/
+Plugin GCN inputfile data/ outputfile saved_models/WaLeF_gcn.h5
+Plugin GTN inputfile data/ outputfile saved_models/WaLeF_gtn_p.h5
+Plugin TCN inputfile data/ outputfile saved_models/WaLeF_tcn.h5
+Plugin TransformerEncoder inputfile data/ outputfile saved_models/WaLeF_transformer.h5
+Plugin HECRAS inputfile data/ outputfile none
